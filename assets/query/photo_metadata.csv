@@ -1,0 +1,4 @@
+Filename,Latitude,Longitude,Altitude,Gimball_Roll,Gimball_Yaw,Gimball_Pitch,Flight_Roll,Flight_Yaw,Flight_Pitch
+drone_image_02.JPG,17.588816666666666,78.12155277777777,+188.20,+0.00,+86.70,-90.00,-1.10,+88.10,-4.20
+drone_image_03.JPG,17.588855555555554,78.12031944444443,+197.60,+0.00,+87.70,-89.90,-0.20,+89.10,-3.90
+drone_image_05.JPG,17.587844444444443,78.12022499999999,+199.40,+0.00,-1.90,-89.90,+5.10,+1.40,-0.10
