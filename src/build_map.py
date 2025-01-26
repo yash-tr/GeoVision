@@ -87,7 +87,7 @@ size = "640x640"  # maximum allowed size
 maptype = "satellite"
 scale = "2" # maximum allowed scale
 #restricted by IP address, so you will have to generate your own
-API_KEY = "AIzaSyDIujj-BqYOSBvPfeRhsY6bZXjTuPXF2C0"
+API_KEY = "Your API key"
 
 URL = "https://maps.googleapis.com/maps/api/staticmap?" # base URL for the Google Maps API
 
