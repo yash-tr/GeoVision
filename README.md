@@ -16,7 +16,7 @@ The main advantage of GeoVision is its capability of matching drone images (left
 </div>
 
 <div align=center>
-<img src="assets/overview/good_match_3.png" width="800px">
+<img src="assets/overview/good_match_3(2).png" width="800px">
 <p align="center"> The drone image (left) can be taken from a very different perspective, compared to the matched satellite image(right) </p>
 </div>
 
