@@ -16,13 +16,13 @@ The main advantage of GeoVision is its capability of matching drone images (left
 </div>
 
 <div align=center>
-<img src="assets/overview/good_match_3(2).png" width="800px">
+<img src="assets/overview/good_match_3 (2).png" width="800px">
 <p align="center"> The drone image (left) can be taken from a very different perspective, compared to the matched satellite image(right) </p>
 </div>
 
 <div align=center>
 <img src="assets/overview/good_match_4.png" width="800px">
-<p align="center"> Successful visual-based localization in non-urban areas </p>
+<p align="center"> Successful visual-based localization in non-urban as well as urban  areas </p>
 </div>
 
 
@@ -99,9 +99,9 @@ The algorithm can run, albeit much slower, on CPU. Simply change ```force_cpu```
 
 **NOTE**: If you encounter any problems which are not listed here, please open a new issue in this repository. We will try to fix it as soon as possible.
 
-## Datasets
 
-Photographs used for experimental validation of the algorithm can be found [here](https://utufi.sharepoint.com/:f:/s/msteams_0ed7e9/EsXaX0CKlpxIpOzVnUmn8-sB4yvmsxUohqh1d8nWKD9-BA?e=gPca2s).
+
+
 
 <div align=center>
 <img src="assets/overview/experiments_flight_area.png" width="800px">
@@ -116,7 +116,7 @@ located at 60.403091° latitude and 22.461824° longitude </p>
 
 |           	| Total 	| Localized 	| MAE (m) 	|
 |:---------:	|:-----:	|:---------:	|:-------:	|
-| Dataset 1 	|  224  	|  77 (92%) 	|  10.82  	|
+| Dataset 1 	|  224  	|  206 (92%) 	|  10.82  	|
 
 
 </div>
@@ -133,17 +133,6 @@ located at 60.403091° latitude and 22.461824° longitude </p>
 <p align="center">Dataset 1 localization error </p>
 </div>
 
-<div align=center>
-<img src="assets/overview/dataset_2_abs_coord.png" width="800px">
-<p align="center">Dataset 2 absolute coordinates of localized photographs</p>
-</div>
 
-<div align=center>
-<img src="assets/overview/dataset_2_error.png" width="800px">
-<p align="center">Dataset 2 localization error </p>
-</div>
 
-<div align=center>
-<img src="assets/overview/error_comparison.png" width="800px">
-<p align="center">Error comparison </p>
-</div>
+
